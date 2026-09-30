@@ -1,4 +1,4 @@
-# Early Detection of Loan Default Risk for SMEs & Youth Entrepreneurs
+** Predicting SME Loan Default Risk in Kenya Using Gradient Boosting & Explainable AI**
 1. **Project Overview**
    
 Small and Medium Enterprises (SMEs) and youth entrepreneurs in emerging markets often face limited access to affordable credit due to high perceived default risk. Traditional credit assessment methods are manual, slow, subjective, and difficult to scale.
